@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nailed-it/static/css/main.4f86a58d.css",
-    "main.js": "/nailed-it/static/js/main.89f74717.js",
+    "main.js": "/nailed-it/static/js/main.37036dd2.js",
     "static/media/kyle_ahlstrom.jpg": "/nailed-it/static/media/kyle_ahlstrom.2e8612d7861024f8fae0.jpg",
     "static/media/erin_kovar.jpeg": "/nailed-it/static/media/erin_kovar.3264f8a0273cedf2a51f.jpeg",
     "index.html": "/nailed-it/index.html",
     "main.4f86a58d.css.map": "/nailed-it/static/css/main.4f86a58d.css.map",
-    "main.89f74717.js.map": "/nailed-it/static/js/main.89f74717.js.map"
+    "main.37036dd2.js.map": "/nailed-it/static/js/main.37036dd2.js.map"
   },
   "entrypoints": [
     "static/css/main.4f86a58d.css",
-    "static/js/main.89f74717.js"
+    "static/js/main.37036dd2.js"
   ]
 }
